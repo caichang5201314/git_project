@@ -30,7 +30,7 @@ print(tiji)
 tiji='caichang'
 print(tiji)
 
-
+print(True)
 #java: int chang=30; int kuan=2;gao=1
 
 
