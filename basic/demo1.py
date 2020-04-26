@@ -31,6 +31,7 @@ tiji='caichang'
 print(tiji)
 
 print(True)
+print('hehe')
 #java: int chang=30; int kuan=2;gao=1
 
 
