@@ -1,0 +1,11 @@
+简介：略
+我用的是python3
+	
+
+目录结构：
+	Doc：document 文档
+	Lib：library 内库
+		site-package：第三方的库的代码就在这个文件夹下
+	Scripts：脚本
+		pip或pip3  装和维护第三方库的东西就靠它
+		
